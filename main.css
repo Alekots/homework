@@ -1,0 +1,15 @@
+main{
+background-color: antiquewhite;
+}
+
+header{
+    display: block;
+    height: 250px;
+    background-color:darkgray;
+
+}
+
+welcome{
+    font-family: 'Times New Roman', Times, serif ;
+    color: red;
+}
